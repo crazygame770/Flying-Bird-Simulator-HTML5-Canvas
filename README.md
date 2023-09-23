@@ -2,8 +2,6 @@
 
 ![demo gif](./assets/gifs/demo.gif)
 
-site: https://leslieyip02.github.io/racing/
-
 ## Controls
 Action            | Button(s)                        
 ----------------- | -------------------------------- 
